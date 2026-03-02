@@ -2,6 +2,12 @@ Demonstrations and Code Showcase: https://drive.google.com/file/d/1ZrysOjFPjsV7m
 
 Personal Favorite Demonstration - The Endless Runner: https://drive.google.com/file/d/1Y5XmFbWCq1eXANzmreo_6Hj27f8ieVwR/view?usp=sharing
 
+Endless Runner: Features Object Spawning, Object Deletion for efficiency, and illusions for the indefinite duration of an Endless Runner, built on the Unity Engine
+
+First Person Shooter: Features Acceleration and deceleration, explosions, Sound effects, flight, blasters
+
+2D Cannon: Features Levels, Collisions, Sound effects, screen switching
+
 To Play My Games:
 
 Downloads ZIP File and Unzip the folders or clone my repository.
